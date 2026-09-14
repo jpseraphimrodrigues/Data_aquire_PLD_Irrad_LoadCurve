@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados e resultados gerados localmente
+data/raw/
+data/processed/
+figures/generated/
+results/
+
+# Arquivos grandes e compactados
+*.zip
+*.7z
+*.rar
+
+# Configurações locais de editores
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
